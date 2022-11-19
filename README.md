@@ -1,1 +1,1 @@
-# rsschool-cv
+https://omcmail.github.io/rsschool-cv/cv
