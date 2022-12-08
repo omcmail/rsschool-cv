@@ -1,7 +1,7 @@
 * {
+    box-sizing: border-box;
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
 }
 
 @font-face {
@@ -43,7 +43,7 @@ body {
   font-size: 20px;
 }
 
-.nav-link:hover {                  
+.nav-link:hover {
   transition: 0.3s;
 }
 
@@ -70,7 +70,6 @@ body {
   justify-content: space-around;
   padding: 25px;
   border-bottom: 1px solid rgb(146, 179, 223);
-  
 }
 
 .section-profile-title {
@@ -89,10 +88,10 @@ body {
 }
 
 .main-section {
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
   height: 950px;
   border-bottom: 1px solid rgb(146, 179, 223);
 }
